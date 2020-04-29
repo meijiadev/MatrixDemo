@@ -17,7 +17,9 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
 /**
- *
+ *desc：可在单独线程中绘制大量耗时内容的View
+ *time：2020/04/29
+ *author：ezreal.mei
  */
 public class SurfaceView1 extends SurfaceView implements SurfaceHolder.Callback {
     private SurfaceHolder holder;
