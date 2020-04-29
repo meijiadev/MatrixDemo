@@ -15,6 +15,7 @@ import java.util.Arrays;
  * desc：用于处理缩放平移旋转，并返回转换矩阵
  * 单独抽取出来是为了避免当项目中出现大量需要自定义不同样式缩放平移控件时重复写大量代码
  * time:2020/04/29
+ * author：ezreal.mei
  */
 public class TouchEvenHandler {
     private View view;
