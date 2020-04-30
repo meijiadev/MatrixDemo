@@ -17,7 +17,7 @@ import java.util.Arrays;
  * time:2020/04/29
  * author：ezreal.mei
  */
-public class TouchEvenHandler {
+public class TouchEventHandler {
     private View view;
     private Bitmap sourceBitmap;
     private float initRatio;
